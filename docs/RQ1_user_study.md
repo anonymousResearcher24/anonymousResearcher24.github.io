@@ -18,9 +18,10 @@ permalink: /docs/RQ1_user_study
 
 ---
 ---
-## Study Questionnaires:
 
-### The study questionnaire corresponding to each subject above is provided below.
+## Study Questionnaires:
+The study questionnaire corresponding to each subject above is provided below:
+
 * ### [S1](../../assets/data/questionnaries/S1.pdf)
 
 * ### [S2](../../assets/data/questionnaries/S2.pdf)
@@ -36,6 +37,6 @@ permalink: /docs/RQ1_user_study
 ---
 ---
 ## Results:
-The collected responses are provided in the file below. 
+The collected responses are provided in the file below: 
 
 * ### [Responses](../../assets/results/RQ1_Results.xlsx)
