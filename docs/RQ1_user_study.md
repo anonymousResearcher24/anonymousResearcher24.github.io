@@ -1,7 +1,7 @@
 ---
 layout: default
-title: RQ1: User Study
-nav_order: 1
+title: User Study
+nav_order: 2
 has_children: false
 permalink: /docs/RQ1_user_study
 ---
@@ -35,6 +35,6 @@ permalink: /docs/RQ1_user_study
 
 ---
 ---
-### The 55 collected responses are provided the file below. 
+### The collected responses are provided the file below. 
 
 * ### [Responses](../../assets/results/RQ1_Results.xlsx)
