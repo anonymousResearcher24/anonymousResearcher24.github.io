@@ -9,12 +9,12 @@ permalink: /docs/RQ1_user_study
 
 | Sub. ID | Project (Failure ID)         | Short Description                        |
 |---------|------------------------------|------------------------------------------|
-| #S1     | Commons **Chart** (8)         | Modifying `timeZone` variable reference  |
-| #S2     | Commons **Lang** (18)         | Modifying `year` format                  |
-| #S3     | Commons **Math** (37)         | Deleting conditional calculations        |
-| #S4     | Joda-**Time** (8)             | Modifying arithmetic expression          |
-| #S5     | **Jackson**Databind/OpenAPI   | Removing reference shortcut              |
-| #S6     | Alibaba-**Druid**/Dble        | Modifying SQL Parsing                    |
+| S1     | Commons **Chart** (8)         | Modifying `timeZone` variable reference  |
+| S2     | Commons **Lang** (18)         | Modifying `year` format                  |
+| S3     | Commons **Math** (37)         | Deleting conditional calculations        |
+| S4     | Joda-**Time** (8)             | Modifying arithmetic expression          |
+| S5     | **Jackson**Databind/OpenAPI   | Removing reference shortcut              |
+| S6     | Alibaba-**Druid**/Dble        | Modifying SQL Parsing                    |
 
 ---
 ---
@@ -36,6 +36,6 @@ permalink: /docs/RQ1_user_study
 ---
 ---
 ## Results:
-### The collected responses are provided in the file below. 
+The collected responses are provided in the file below. 
 
 * ### [Responses](../../assets/results/RQ1_Results.xlsx)
