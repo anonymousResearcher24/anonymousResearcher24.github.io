@@ -5,8 +5,7 @@ nav_order: 2
 has_children: false
 permalink: /docs/RQ1_user_study
 ---
-### Program Subjects.
-
+## Program Subjects:
 
 | Sub. ID | Project (Failure ID)         | Short Description                        |
 |---------|------------------------------|------------------------------------------|
@@ -19,6 +18,7 @@ permalink: /docs/RQ1_user_study
 
 ---
 ---
+## Study Questionnaires:
 
 ### The study questionnaire corresponding to each subject above is provided below.
 * ### [S1](../../assets/data/questionnaries/S1.pdf)
@@ -35,6 +35,7 @@ permalink: /docs/RQ1_user_study
 
 ---
 ---
-### The collected responses are provided the file below. 
+## Results:
+### The collected responses are provided in the file below. 
 
 * ### [Responses](../../assets/results/RQ1_Results.xlsx)
