@@ -6,6 +6,6 @@ has_children: false
 permalink: /docs/RQ3_interview
 ---
 
-The slide deck used to facilitate the interviews is provided below:
+The interview protocol is provided below:
 
-* ### [Interview Slides](../../assets/data/DeveloperInterviews.pptx)
+* ### [Interview Protocol](../../assets/data/InterviewProtocol.docx)
