@@ -48,9 +48,3 @@ As the questionnaires are identical between the subjects except for the code vie
 
 * ### [S6 Textual Explanation](../../assets/data/questionnaries/S6_TextualExplanation.pdf)
 
----
----
-## Results:
-The collected responses are provided in the file below: 
-
-* ### [Responses](../../assets/results/RQ1_Results.xlsx)
