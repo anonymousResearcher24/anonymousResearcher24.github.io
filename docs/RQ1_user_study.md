@@ -20,7 +20,9 @@ permalink: /docs/RQ1_user_study
 ---
 
 ## Study Questionnaires:
-We provide the two versions of the study questionnaire, "trace first" and "views first", for each six subjects:
+The questionnaires were created using the [Qualtrics](https://www.qualtrics.com), a platform that enables the creation and distribution of surveys, as well as data collection and analysis. Qualtrics is widely used for research, market surveys, customer feedback, employee engagement, and academic purposes. 
+
+Below are the two versions of the study questionnaire, "trace first" and "views first," for each of the six subjects. The structure of the questionnaires is identical across subjects, except for the code views and corresponding textual explanations: 
 
 * ### [S1 Trace First](../../assets/data/questionnaries/S1_TraceFirstQuestionnaire.pdf)
 
