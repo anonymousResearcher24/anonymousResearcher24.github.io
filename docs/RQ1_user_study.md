@@ -15,44 +15,45 @@ To ensure participants could fully comprehend the code and answer numerous quest
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th style="border: 1px solid black; padding: 5px;">Dataset</th>
-    <th style="border: 1px solid black; padding: 5px;">Sub. ID</th>
-    <th style="border: 1px solid black; padding: 5px;">Project (Failure ID)</th>
-    <th style="border: 1px solid black; padding: 5px;">Short Description</th>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Dataset</th>
+    <th style="border: 1px solid black; padding: 5px; width: 50px; text-align: center;">Sub. ID</th>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Project (Failure ID)</th>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Short Description</th>
   </tr>
   <tr>
-    <td rowspan="4" style="border: 1px solid black; padding: 5px;"><strong>Defects4J</strong></td>
-    <td style="border: 1px solid black; padding: 5px;">S1</td>
-    <td style="border: 1px solid black; padding: 5px;">Commons <strong>Chart</strong> (8)</td>
-    <td style="border: 1px solid black; padding: 5px;">Modifying <code>timeZone</code> variable reference</td>
+    <td rowspan="4" style="border: 1px solid black; padding: 5px; text-align: center;"><strong>Defects4J</strong></td>
+    <td style="border: 1px solid black; padding: 5px; width: 50px; text-align: center;">S1</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Commons <strong>Chart</strong> (8)</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Modifying <code>timeZone</code> variable reference</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">S2</td>
-    <td style="border: 1px solid black; padding: 5px;">Commons <strong>Lang</strong> (18)</td>
-    <td style="border: 1px solid black; padding: 5px;">Modifying <code>year</code> format</td>
+    <td style="border: 1px solid black; padding: 5px; width: 50px; text-align: center;">S2</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Commons <strong>Lang</strong> (18)</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Modifying <code>year</code> format</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">S3</td>
-    <td style="border: 1px solid black; padding: 5px;">Commons <strong>Math</strong> (37)</td>
-    <td style="border: 1px solid black; padding: 5px;">Deleting conditional calculations</td>
+    <td style="border: 1px solid black; padding: 5px; width: 50px; text-align: center;">S3</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Commons <strong>Math</strong> (37)</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Deleting conditional calculations</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">S4</td>
-    <td style="border: 1px solid black; padding: 5px;">Joda-<strong>Time</strong> (8)</td>
-    <td style="border: 1px solid black; padding: 5px;">Modifying arithmetic expression</td>
+    <td style="border: 1px solid black; padding: 5px; width: 50px; text-align: center;">S4</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Joda-<strong>Time</strong> (8)</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Modifying arithmetic expression</td>
   </tr>
   <tr>
-    <td rowspan="2" style="border: 1px solid black; padding: 5px;"><strong>Librench</strong></td>
-    <td style="border: 1px solid black; padding: 5px;">S5</td>
-    <td style="border: 1px solid black; padding: 5px;"><strong>Jackson</strong>Databind/OpenAPI</td>
-    <td style="border: 1px solid black; padding: 5px;">Removing reference shortcut</td>
+    <td rowspan="2" style="border: 1px solid black; padding: 5px; text-align: center;"><strong>Librench</strong></td>
+    <td style="border: 1px solid black; padding: 5px; width: 50px; text-align: center;">S5</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;"><strong>Jackson</strong>Databind/OpenAPI</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Removing reference shortcut</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">S6</td>
-    <td style="border: 1px solid black; padding: 5px;">Alibaba-<strong>Druid</strong>/Dble</td>
-    <td style="border: 1px solid black; padding: 5px;">Modifying SQL Parsing</td>
+    <td style="border: 1px solid black; padding: 5px; width: 50px; text-align: center;">S6</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Alibaba-<strong>Druid</strong>/Dble</td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Modifying SQL Parsing</td>
   </tr>
 </table>
+
 
 
 ---
