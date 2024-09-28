@@ -22,6 +22,47 @@ To ensure participants could fully comprehend the code and answer numerous quest
 | S5     | **Jackson**Databind/OpenAPI   | Removing reference shortcut              |
 | S6     | Alibaba-**Druid**/Dble        | Modifying SQL Parsing                    |
 
+<table>
+  <tr>
+    <th>Dataset</th>
+    <th>Sub. ID</th>
+    <th>Project (Failure ID)</th>
+    <th>Short Description</th>
+  </tr>
+  <tr>
+    <td rowspan="4"><strong>Defects4J</strong></td>
+    <td>S1</td>
+    <td>Commons <strong>Chart</strong> (8)</td>
+    <td>Modifying <code>timeZone</code> variable reference</td>
+  </tr>
+  <tr>
+    <td>S2</td>
+    <td>Commons <strong>Lang</strong> (18)</td>
+    <td>Modifying <code>year</code> format</td>
+  </tr>
+  <tr>
+    <td>S3</td>
+    <td>Commons <strong>Math</strong> (37)</td>
+    <td>Deleting conditional calculations</td>
+  </tr>
+  <tr>
+    <td>S4</td>
+    <td>Joda-<strong>Time</strong> (8)</td>
+    <td>Modifying arithmetic expression</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><strong>Librench</strong></td>
+    <td>S5</td>
+    <td><strong>Jackson</strong>Databind/OpenAPI</td>
+    <td>Removing reference shortcut</td>
+  </tr>
+  <tr>
+    <td>S6</td>
+    <td>Alibaba-<strong>Druid</strong>/Dble</td>
+    <td>Modifying SQL Parsing</td>
+  </tr>
+</table>
+
 ---
 ---
 
