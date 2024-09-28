@@ -7,8 +7,8 @@ permalink: /docs/RQ1_user_study
 ---
 ## Program Subjects:
 
-As our program subjects we selected four failures from Defects4J -- a large and popular
-collection of reproducible real-world failures in Java programs -- and two failures from the LibRench –- a set of real-world client-library project pairs with at least one library upgrade failure.
+As our program subjects we selected four failures from Defects4J, a large and popular
+collection of reproducible real-world failures in Java programs, and two failures from the LibRench, a set of real-world client-library project pairs with at least one library upgrade failure.
 Table below shows our six selected subjects, together with
 the failure id for the Defects4J projects and a short description of each failure.
 To ensure participants could fully comprehend the code and answer numerous questions within a reasonable time frame of about 30 minutes to one hour, we shortened and simplified code snippets, preserving the essence of the changes and the failure while removing implementation details. 
