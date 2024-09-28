@@ -13,55 +13,47 @@ Table below shows our six selected subjects, together with
 the failure id for the Defects4J projects and a short description of each failure.
 To ensure participants could fully comprehend the code and answer numerous questions within a reasonable time frame of about 30 minutes to one hour, we shortened and simplified code snippets, preserving the essence of the changes and the failure while removing implementation details. 
 
-| Sub. ID | Project (Failure ID)         | Short Description                        |
-|---------|------------------------------|------------------------------------------|
-| S1     | Commons **Chart** (8)         | Modifying `timeZone` variable reference  |
-| S2     | Commons **Lang** (18)         | Modifying `year` format                  |
-| S3     | Commons **Math** (37)         | Deleting conditional calculations        |
-| S4     | Joda-**Time** (8)             | Modifying arithmetic expression          |
-| S5     | **Jackson**Databind/OpenAPI   | Removing reference shortcut              |
-| S6     | Alibaba-**Druid**/Dble        | Modifying SQL Parsing                    |
-
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th>Dataset</th>
-    <th>Sub. ID</th>
-    <th>Project (Failure ID)</th>
-    <th>Short Description</th>
+    <th style="border: 1px solid black; padding: 5px;">Dataset</th>
+    <th style="border: 1px solid black; padding: 5px;">Sub. ID</th>
+    <th style="border: 1px solid black; padding: 5px;">Project (Failure ID)</th>
+    <th style="border: 1px solid black; padding: 5px;">Short Description</th>
   </tr>
   <tr>
-    <td rowspan="4"><strong>Defects4J</strong></td>
-    <td>S1</td>
-    <td>Commons <strong>Chart</strong> (8)</td>
-    <td>Modifying <code>timeZone</code> variable reference</td>
+    <td rowspan="4" style="border: 1px solid black; padding: 5px;"><strong>Defects4J</strong></td>
+    <td style="border: 1px solid black; padding: 5px;">S1</td>
+    <td style="border: 1px solid black; padding: 5px;">Commons <strong>Chart</strong> (8)</td>
+    <td style="border: 1px solid black; padding: 5px;">Modifying <code>timeZone</code> variable reference</td>
   </tr>
   <tr>
-    <td>S2</td>
-    <td>Commons <strong>Lang</strong> (18)</td>
-    <td>Modifying <code>year</code> format</td>
+    <td style="border: 1px solid black; padding: 5px;">S2</td>
+    <td style="border: 1px solid black; padding: 5px;">Commons <strong>Lang</strong> (18)</td>
+    <td style="border: 1px solid black; padding: 5px;">Modifying <code>year</code> format</td>
   </tr>
   <tr>
-    <td>S3</td>
-    <td>Commons <strong>Math</strong> (37)</td>
-    <td>Deleting conditional calculations</td>
+    <td style="border: 1px solid black; padding: 5px;">S3</td>
+    <td style="border: 1px solid black; padding: 5px;">Commons <strong>Math</strong> (37)</td>
+    <td style="border: 1px solid black; padding: 5px;">Deleting conditional calculations</td>
   </tr>
   <tr>
-    <td>S4</td>
-    <td>Joda-<strong>Time</strong> (8)</td>
-    <td>Modifying arithmetic expression</td>
+    <td style="border: 1px solid black; padding: 5px;">S4</td>
+    <td style="border: 1px solid black; padding: 5px;">Joda-<strong>Time</strong> (8)</td>
+    <td style="border: 1px solid black; padding: 5px;">Modifying arithmetic expression</td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Librench</strong></td>
-    <td>S5</td>
-    <td><strong>Jackson</strong>Databind/OpenAPI</td>
-    <td>Removing reference shortcut</td>
+    <td rowspan="2" style="border: 1px solid black; padding: 5px;"><strong>Librench</strong></td>
+    <td style="border: 1px solid black; padding: 5px;">S5</td>
+    <td style="border: 1px solid black; padding: 5px;"><strong>Jackson</strong>Databind/OpenAPI</td>
+    <td style="border: 1px solid black; padding: 5px;">Removing reference shortcut</td>
   </tr>
   <tr>
-    <td>S6</td>
-    <td>Alibaba-<strong>Druid</strong>/Dble</td>
-    <td>Modifying SQL Parsing</td>
+    <td style="border: 1px solid black; padding: 5px;">S6</td>
+    <td style="border: 1px solid black; padding: 5px;">Alibaba-<strong>Druid</strong>/Dble</td>
+    <td style="border: 1px solid black; padding: 5px;">Modifying SQL Parsing</td>
   </tr>
 </table>
+
 
 ---
 ---
