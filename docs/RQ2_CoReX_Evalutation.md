@@ -7,9 +7,6 @@ permalink: /docs/RQ2_CoReX_Evalutation
 ---
 
 ## Program Subjects: 
-We borrowed the evaluation dataset that includes 286 subjects from existing work [InPreSS](https://ieeexplore.ieee.org/abstract/document/10172711), 
-which includes 278 failures from six projects of the popular [Defects4J](https://zenodo.org/record/7683853#.Y_3L1y-975g) benchmark and 8 large client-library project pairs with upgrade failures from [LibRench](https://zenodo.org/record/7683853/files/InPreSSBench.zip?download=1).
-
 We borrowed the evaluation dataset that includes 286 subjects from existing work [InPreSS](https://ieeexplore.ieee.org/abstract/document/10172711),
 which includes 278 failures from six projects of the popular Defects4J (download [here](https://zenodo.org/record/7683853#.Y_3L1y-975g)) benchmark and 8 large client-library project pairs with upgrade failures from LibRench (download [here](https://zenodo.org/record/7683853/files/InPreSSBench.zip?download=1)).
 
