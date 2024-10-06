@@ -7,11 +7,9 @@ permalink: /docs/RQ1_user_study
 ---
 ## Program Subjects:
 
-As our program subjects we selected four failures from Defects4J, a large and popular
-collection of reproducible real-world failures in Java programs, and two failures from the LibRench, a set of real-world client-library project pairs with at least one library upgrade failure.
-Table below shows our six selected subjects, together with
-the failure id for the Defects4J projects and a short description of each failure.
-To ensure participants could fully comprehend the code and answer numerous questions within a reasonable time frame of about 30 minutes to one hour, we shortened and simplified code snippets, preserving the essence of the changes and the failure while removing implementation details. 
+As our program subjects, we selected four failures from [Defects4J](https://dl.acm.org/doi/abs/10.1145/2610384.2628055) (a large and popular collection of reproducible real-world failures in Java programs) and two failures from [LibRench](https://ieeexplore.ieee.org/abstract/document/10172711) (a set of real-world client-library project pairs with at least one library upgrade failure).
+
+Table below shows the six selected subjects, together with a short description of each failure. To ensure participants could fully comprehend the code and answer numerous questions within a reasonable time frame of about 30-60 minutes, we shortened and simplified code snippets, preserving the essence of the changes and the failure, while removing implementation details.
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -60,9 +58,7 @@ To ensure participants could fully comprehend the code and answer numerous quest
 ---
 
 ## Study Questionnaires:
-The questionnaires were created using the [Qualtrics](https://www.qualtrics.com), a platform that enables the creation and distribution of surveys, as well as data collection and analysis. Qualtrics is widely used for research, market surveys, customer feedback, employee engagement, and academic purposes. 
-
-Below are the two versions of the study questionnaire, "trace first" and "views first," for each of the six subjects. The structure of the questionnaires is identical across subjects, except for the code views and corresponding textual explanations: 
+The questionnaires were created using the Qualtrics ([https://www.qualtrics.com](https://www.qualtrics.com)) – a popular platform that enables the creation and distribution of surveys, and data collection and analysis. Below, we provide two versions of the study questionnaire: "trace first" and "views first," for each of the six subjects. The structure of the questionnaires is identical across subjects, except for the code views and corresponding textual explanations:
 
 * ### [S1 Trace First](../../assets/data/questionnaries/S1_TraceFirstQuestionnaire.pdf)
 
