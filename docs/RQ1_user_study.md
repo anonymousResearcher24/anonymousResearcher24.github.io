@@ -52,34 +52,31 @@ Table below shows the six selected subjects, together with a short description o
   </tr>
 </table>
 
-
-
----
 ---
 
 ## Study Questionnaires:
-The questionnaires were created using the Qualtrics ([https://www.qualtrics.com](https://www.qualtrics.com)) – a popular platform that enables the creation and distribution of surveys, and data collection and analysis. Below, we provide two versions of the study questionnaire: "trace first" and "views first," for each of the six subjects. The structure of the questionnaires is identical across subjects, except for the code views and corresponding textual explanations:
+The questionnaires were created using the [Qualtrics](https://www.qualtrics.com) – a popular platform that enables the creation and distribution of surveys, and data collection and analysis. Below, we provide two versions of the study questionnaire: "trace first" and "views first," for each of the six subjects. The structure of the questionnaires is identical across subjects, except for the code views and corresponding textual explanations:
 
-* ### [S1 Trace First](../../assets/data/questionnaries/S1_TraceFirstQuestionnaire.pdf)
+* **Subject 1:**
+  * [Trace First](../../assets/data/questionnaries/S1_TraceFirstQuestionnaire.pdf)
+  * [Views First](../../assets/data/questionnaries/S1_ViewFirstQuestionnaire.pdf)
 
-* ### [S1 Views First](../../assets/data/questionnaries/S1_ViewFirstQuestionnaire.pdf)
+* **Subject 2:**
+  * [Trace First](../../assets/data/questionnaries/S2_TraceFirstQuestionnaire.pdf)
+  * [Views First](../../assets/data/questionnaries/S2_ViewFirstQuestionnaire.pdf)
 
-* ### [S2 Trace First](../../assets/data/questionnaries/S2_TraceFirstQuestionnaire.pdf)
+* **Subject 3:**
+  * [Trace First](../../assets/data/questionnaries/S3_TraceFirstQuestionnaire.pdf)
+  * [Views First](../../assets/data/questionnaries/S3_ViewFirstQuestionnaire.pdf)
 
-* ### [S2 Views First](../../assets/data/questionnaries/S2_ViewFirstQuestionnaire.pdf)
+* **Subject 4:**
+  * [Trace First](../../assets/data/questionnaries/S4_TraceFirstQuestionnaire.pdf)
+  * [Views First](../../assets/data/questionnaries/S4_ViewFirstQuestionnaire.pdf)
 
-* ### [S3 Trace First](../../assets/data/questionnaries/S3_TraceFirstQuestionnaire.pdf)
+* **Subject 5:**
+  * [Trace First](../../assets/data/questionnaries/S5_TraceFirstQuestionnaire.pdf)
+  * [Views First](../../assets/data/questionnaries/S5_ViewFirstQuestionnaire.pdf)
 
-* ### [S3 Views First](../../assets/data/questionnaries/S3_ViewFirstQuestionnaire.pdf)
-
-* ### [S4 Trace First](../../assets/data/questionnaries/S4_TraceFirstQuestionnaire.pdf)
-
-* ### [S4 Views First](../../assets/data/questionnaries/S4_ViewFirstQuestionnaire.pdf)
-
-* ### [S5 Trace First](../../assets/data/questionnaries/S5_TraceFirstQuestionnaire.pdf)
-
-* ### [S5 Views First](../../assets/data/questionnaries/S5_ViewFirstQuestionnaire.pdf)
-
-* ### [S6 Trace First](../../assets/data/questionnaries/S6_TraceFirstQuestionnaire.pdf)
-
-* ### [S6 Views First](../../assets/data/questionnaries/S6_ViewFirstQuestionnaire.pdf)
+* **Subject 6:**
+  * [Trace First](../../assets/data/questionnaries/S6_TraceFirstQuestionnaire.pdf)
+  * [Views First](../../assets/data/questionnaries/S6_ViewFirstQuestionnaire.pdf)
