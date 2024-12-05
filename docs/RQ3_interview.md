@@ -13,4 +13,4 @@ Our interview protocol is provided below:
 
 Our interview mockup is provided below:
 
-* ### [Interview Mockup](../../assets/data/DeveloperInterviews.pptx)
+* ### [Interview Mockup](../../assets/data/DeveloperInterviews.pdf)
