@@ -5,6 +5,11 @@ nav_order: 2
 has_children: false
 permalink: /docs/RQ1_user_study
 ---
+
+The raw data obtained in this study cannot be shared because of privacy issues. 
+
+---
+
 ## Program Subjects:
 
 As our program subjects, we selected four failures from [Defects4J](https://dl.acm.org/doi/abs/10.1145/2610384.2628055) (a large and popular collection of reproducible real-world failures in Java programs) and two failures from [LibRench](https://ieeexplore.ieee.org/abstract/document/10172711) (a set of real-world client-library project pairs with at least one library upgrade failure).
