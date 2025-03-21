@@ -3,10 +3,10 @@ layout: default
 title: User Study
 nav_order: 2
 has_children: false
-permalink: /docs/RQ1_user_study
+permalink: /docs/user_study
 ---
 
-The raw data obtained in this study cannot be shared because of privacy issues. 
+### The raw data obtained in this study cannot be shared because of privacy issues. 
 
 ---
 
