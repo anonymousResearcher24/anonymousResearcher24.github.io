@@ -13,7 +13,7 @@ We borrowed the evaluation dataset that includes 286 subjects from existing work
 which includes 278 failures from six projects of the popular Defects4J benchmark (download [here](https://zenodo.org/record/7683853#.Y_3L1y-975g)) and 8 large client-library project pairs with upgrade failures from LibRench (download [here](https://zenodo.org/record/7683853/files/InPreSSBench.zip?download=1)).
 
 ### Results:
-Detailed information about the experimental results is provided in the file linked below. The file includes two tabs, "Reduction Rate" and "E_inspect", each showing results for all 286 subjects, grouped by project.
+Detailed information about the experimental results is provided in the file linked below. The file includes two tabs, "RQ1-Reduction Rate" and "RQ2-Time", each showing results for all 286 subjects, grouped by project.
 
 The "RQ1-Reduction Rate" tab shows slice sizes and reduction rates achieved by the DualSlice, InPreSS, CoReXI, and CoReX slices, with results reported separately for the old and new program versions. For comparison, we also include the size of the entire trace and the synchronized slice on this trace.
 
