@@ -26,7 +26,7 @@ The "RQ2-Time" tab shows the runtime measurements (in minutes) for DualSlice, In
 ## RQ3 (Alignment with Developers' Selections) 
 
 ### Program Subjects:
-We re-considered code samples used in the [user study](https://anonymousresearcher24.github.io/docs/user_study).
+We used code samples used in the [user study](https://anonymousresearcher24.github.io/docs/user_study).
 
 
 ### Results:
