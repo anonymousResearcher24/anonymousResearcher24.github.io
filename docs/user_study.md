@@ -85,3 +85,76 @@ The questionnaires were created using the [Qualtrics](https://www.qualtrics.com)
 * **Subject 6:**
   * [Trace First](../../assets/data/questionnaries/S6_TraceFirstQuestionnaire.pdf)
   * [Views First](../../assets/data/questionnaries/S6_ViewFirstQuestionnaire.pdf)
+
+---
+
+
+## Statistical Tests:
+
+To further support our claim that most developers consider contextual statements necessary, we conducted statistical analyses on the statement rankings provided by 55 participants across six debugging subjects, each evaluated using three code views: DualSlice, InPreSS, and Context (i.e., a DualSlice or InPreSS view augmented with contextual information). Specifically, we applied the following statistical tests:
+
+-- **Friedman Test:** To assess whether there are statistically significant differences in participants' rankings across the three tools.
+
+-- **Wilcoxon Signed-Rank Test:** As a post-hoc analysis following the Friedman test, to determine which tool pairs differ significantly from each other.
+
+-- **Kruskal-Wallis Test:** To examine whether participant preferences for each tool differ significantly across the six debugging subjects. This test serves as a non-parametric extension of the Mann-Whitney U test for more than two groups.
+
+These tests help quantify the significance of tool differences and the consistency of preferences across study subjects.
+
+
+### Test for Differences Between Tools:
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Test Category</th>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Comparison</th>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Result Summary</th>
+  </tr>
+
+  <!-- Friedman -->
+  <tr>
+    <td rowspan="4" style="border: 1px solid black; padding: 5px; text-align: center;"><strong>Friedman Test</strong></td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Dual vs Inpress vs Context</td>
+    <td style="border: 1px solid black; padding: 5px;">X²r = 58.0364 (N = 55), <strong>p &lt; .00001</strong> → Significant at p &lt; .05</td>
+  </tr>
+
+  <!-- Wilcoxon 1 -->
+  <tr>
+    <td rowspan="4" style="border: 1px solid black; padding: 5px; text-align: center;"><strong>Wilcoxon Tests</strong></td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Dual vs Inpress</td>
+    <td style="border: 1px solid black; padding: 5px;">z = -0.6074, <strong>p = .54186</strong> → Not significant. W = 697.5, Mean Diff = -0.64</td>
+  </tr>
+
+  <!-- Wilcoxon 2 -->
+  <tr>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Dual vs Context</td>
+    <td style="border: 1px solid black; padding: 5px;">z = -5.7184, <strong>p &lt; .00001</strong> → Significant. W = 87.5, Mean Diff = 1.36</td>
+  </tr>
+
+  <!-- Wilcoxon 3 -->
+  <tr>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Inpress vs Context</td>
+    <td style="border: 1px solid black; padding: 5px;">z = -5.932, <strong>p &lt; .00001</strong> → Significant. W = 62, Mean Diff = 1.47</td>
+  </tr>
+</table>
+
+
+### Compare Rankings Across Subjects (Kruskal-Wallis Test):
+<table style="border-collapse: collapse; width: 100%;">
+  <!-- Kruskal-Wallis -->
+  <tr>
+    <td rowspan="3" style="border: 1px solid black; padding: 5px; text-align: center;"><strong>Kruskal-Wallis Test</strong></td>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Dual across subjects</td>
+    <td style="border: 1px solid black; padding: 5px;">p = .7918 → Not significant at p &lt; .05</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Inpress across subjects</td>
+    <td style="border: 1px solid black; padding: 5px;">p = .94343 → Not significant at p &lt; .05</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 5px; text-align: center;">Context across subjects</td>
+    <td style="border: 1px solid black; padding: 5px;">p = .69585 → Not significant at p &lt; .05</td>
+  </tr>
+</table>
+
