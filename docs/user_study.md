@@ -138,8 +138,13 @@ These tests help quantify the significance of tool differences and the consisten
 </table>
 
 
-### Compare Rankings Across Subjects (Kruskal-Wallis Test):
+### Compare Rankings Across Subjects:
 <table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Test Category</th>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Comparison</th>
+    <th style="border: 1px solid black; padding: 5px; text-align: center;">Result Summary</th>
+  </tr>
   <!-- Kruskal-Wallis -->
   <tr>
     <td rowspan="3" style="border: 1px solid black; padding: 5px; text-align: center;"><strong>Kruskal-Wallis Test</strong></td>
